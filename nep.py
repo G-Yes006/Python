@@ -33,3 +33,4 @@ def sum(n1,n2):
 x=sum("G","Yes")
 print(x)
     
+ #this is edited on github
